@@ -1,2 +1,1 @@
-# PrivacyGPT
-Privacy_Policy
+Privacy Policy  Naval Action Expert does not collect, store, or process any personal information. This application only accesses free, publicly available game data hosted on Google Cloud Storage, which includes information about game items, shops, ports, and nations. All data is provided by external public sources and contains no user-specific or sensitive information.  If you have any questions regarding this policy, please contact us at [ionutcorta@gmail.com].
